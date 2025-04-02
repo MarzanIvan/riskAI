@@ -1,4 +1,5 @@
-![risk logo banner](https://github.com/user-attachments/assets/fb70c880-29a7-4568-96f2-306497ec0c17)
+
+![risk logo frontend](https://github.com/user-attachments/assets/ff77a0cb-206b-452c-b232-617b0e95bdec)
 
 <br/>
 # Проект: React Python for Financial Risk Management using riskAl Assistant
