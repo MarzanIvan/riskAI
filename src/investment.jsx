@@ -28,7 +28,7 @@ const Investment = () => {
         e.preventDefault();
 
         try {
-            const response = await axios.post('http://127.0.0.1:8000/api/submit_investment/', formData);
+            const response = await axios.post('https://85.174.194.25:8000/api/submit_investment/', formData);
             console.log('Form submitted successfully:', response.data);
         } catch (error) {
             console.error('Error submitting form:', error);

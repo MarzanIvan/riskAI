@@ -28,7 +28,7 @@ const Credit = () => {
             e.preventDefault();
 
             try {
-                const response = await axios.post("http://127.0.0.1:8000/api/submit_form/", formData);
+                const response = await axios.post("https://85.174.194.25:8000/api/credit_form/", formData);
                 console.log("Form submitted successfully", response.data);
             } catch (error) {
                 console.error("Error submitting form", error);
