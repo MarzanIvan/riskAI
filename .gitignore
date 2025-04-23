@@ -3,7 +3,6 @@ node_modules
 dist
 /img
 *.png
-src/Header SVG.jsx
 dist.zip
 img.zip
 src.zip
