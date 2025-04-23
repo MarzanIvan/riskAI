@@ -6,7 +6,7 @@ import Footer from '/src/Footer.jsx';
 
 import LisSkinsBlack from './assets/tbank whiteblack.svg';
 import AvanMarketBlack from "./assets/sber whiteblack.svg";
-import TradeItBlack from './assets/tradeitBlack.svg';
+import TradeItBlack from './assets/tradeitblack.svg';
 import YoutubeCircle from './assets/youtubelogocircle.svg';
 import HeaderSVG from "./Header SVG.jsx";
 

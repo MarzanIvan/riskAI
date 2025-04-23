@@ -108,7 +108,8 @@ const Projects = () => {
                 <main className="website-workarea">
                     <section>
                         <div className="container container--fluid container--padding">
-                            <div className="header-block"><h1>Прогназируй риски в финансовой индустрии с помощью riskAI</h1></div>
+                            <div className="header-block"><h1>Прогнозируй риски в финансовой индустрии с помощью
+                                riskAI</h1></div>
                             <div className="section__body">
                                 <ProjectList/>
                             </div>

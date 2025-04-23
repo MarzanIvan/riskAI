@@ -5,7 +5,7 @@ import './main.min.css'
 import Footer from '/src/Footer.jsx';
 import RUTUBElogo from '/src/assets/rutubelogo.svg'
 import VKlogo from '/src/assets/vklogo.svg'
-import YouTubeLogo from '/src/assets/YouTubeLogo.svg'
+import YouTubeLogo from '/src/assets/youtubelogo.svg'
 import YoutubeCircle from "./assets/youtubelogocircle.svg";
 import HeaderSVG from "./Header SVG.jsx";
 

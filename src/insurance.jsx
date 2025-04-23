@@ -87,7 +87,7 @@ const Insurance = () => {
         e.preventDefault();
 
         try {
-            const response = await axios.post('https://85.174.194.25:8000/api/insurance_form/', formData);
+            const response = await axios.post('/api/insurance_form/', formData);
             console.log('Form submitted successfully:', response.data);
         } catch (error) {
             console.error('Error submitting form:', error);
